@@ -65,4 +65,4 @@ To try the PRISMA application, here is a demo account that can be used::
 
 
 ### 📜 Lisensi
-The project uses an MIT license or as selected.
+The project uses an MIT license and its free to use.
