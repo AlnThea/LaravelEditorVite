@@ -11,7 +11,7 @@
 
 ### 1️⃣ Clone Repository
 ```sh
-git clone https://github.com/dahlan1991/LaravelEditor.git
+git clone https://github.com/alnThea/LaravelEditor.git
 cd laraveleditor
 ```
 
@@ -58,7 +58,7 @@ To try the PRISMA application, here is a demo account that can be used::
 
 | Email            | Password    |
 |------------------|-------------|
-| user@example.com | `123456789` |
+| test@example.com | `123456789` |
 
 > ⚠ Note: The password above has been hashed—use the original value when logging in.
 
